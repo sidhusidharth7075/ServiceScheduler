@@ -109,8 +109,10 @@
       }
     }
   </style>
+  
 </head>
 <body>
+ 
 
   <div class="widget small widget-1"></div>
   <div class="widget medium widget-2"></div>
@@ -119,20 +121,23 @@
   <div class="login-wrapper">
     <div class="login-form">
       <div class="text-right mb-3">
+        
         <a href="{% url 'index' %}" class="btn btn-secondary">Home</a>
       </div>
+      <div><h1 class="mt-5 text-center">Profile</h1></div>
       <div class="error-messages">
         {% for message in messages %}
           <p class="error-message" style="color: red;">{{ message }}</p>
         {% endfor %}
       </div>
       
-      <h1 class="mt-5 text-center">Profile</h1>
+      
 
       <div class="container">
         <div class="profile-widget">
           <i class="fas fa-user-circle profile-icon" aria-hidden="true"></i> <!-- Added aria-hidden attribute for accessibility -->
           <p class="profile-details">Welcome, <strong>{{ user.first_name }} {{ user.last_name }}</strong>!</p>
+          <p class="profile-details">Email: <strong>{{ user.username }}</strong></p>
           <p class="profile-details">Email: <strong>{{ user.email }}</strong></p>
           <!-- Add more profile details as needed -->
           <div class="text-center mt-4">
