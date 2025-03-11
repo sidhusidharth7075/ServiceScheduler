@@ -71,8 +71,7 @@ EMAIL_HOST_PASSWORD=your_email_password
 - **SQLite** (Database)
 - **Email Services** for notifications
 
-## 📝 License
-This project is licensed under the **MIT License**.
+
 
 ## 📧 Contact
 For inquiries or collaboration opportunities, reach out via:
