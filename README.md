@@ -77,7 +77,7 @@ This project is licensed under the **MIT License**.
 ## 📧 Contact
 For inquiries or collaboration opportunities, reach out via:
 - Email: [sidhusidharth7075@gmail.com](mailto:sidhusidharth7075@gmail.com)
-- LinkedIn: [Lohith Sappa]((https://www.linkedin.com/in/lohith-sappa-aab07629a/))
+- LinkedIn: [Lohith Sappa]([(https://www.linkedin.com/in/lohith-sappa-aab07629a/)](https://www.linkedin.com/in/lohith-sappa-aab07629a/))
 
 ---
 ⭐ Don't forget to **star** this repository if you found it helpful!
