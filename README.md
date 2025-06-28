@@ -45,7 +45,7 @@ python manage.py runserver
 ```
 
 ### 7. Access the Website
-- not published yet.
+- [Click-Here](https://fckutony.pythonanywhere.com/)
 
 ## 📋 Configuration
 
